@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "notes": "قائمة جانبية، شاشة تحاليل مستقلة (رفع صور أو إدخال يدوي)، وصفحة خطوات الاستخدام",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "notes": "نافذة بياناتي وهدفي بقوائم منسدلة وترتيب أوضح",
   "apk": "https://github.com/aimanryache/w90-tracker/releases/latest/download/w90.apk"
 }
