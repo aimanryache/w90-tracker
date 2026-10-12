@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "notes": "إعداد على خطوات، واجهة أوضح، وشعار جديد غامق.",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "notes": "قائمة جانبية، شاشة تحاليل مستقلة (رفع صور أو إدخال يدوي)، وصفحة خطوات الاستخدام",
   "apk": "https://github.com/aimanryache/w90-tracker/releases/latest/download/w90.apk"
 }
