@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "notes": "النوافذ بقت صفحات، التأكيد بدوستين، إشعار صغير بعد كل فعل، وأي خطأ بيتسجل ويتبعت بدوسة",
+  "versionCode": 16,
+  "versionName": "1.15",
+  "notes": "التحديث بقى ينزل ويتثبّت من جوه التطبيق من غير متصفح",
   "apk": "https://github.com/aimanryache/w90-tracker/releases/latest/download/w90.apk"
 }
