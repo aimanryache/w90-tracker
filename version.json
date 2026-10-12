@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "notes": "هدف مشي أسبوعي (3 أو 5 ساعات) وتسجيل دقايق المشي كل يوم",
+  "versionCode": 13,
+  "versionName": "1.12",
+  "notes": "شاشة ترحيب قبل الإعداد، وشاشة إعدادات: فصل مفتاح المساعد، التصدير والاستيراد، وإعادة ضبط التطبيق",
   "apk": "https://github.com/aimanryache/w90-tracker/releases/latest/download/w90.apk"
 }
