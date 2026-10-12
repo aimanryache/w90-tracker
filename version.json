@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "notes": "شاشة ترحيب قبل الإعداد، وشاشة إعدادات: فصل مفتاح المساعد، التصدير والاستيراد، وإعادة ضبط التطبيق",
+  "versionCode": 14,
+  "versionName": "1.13",
+  "notes": "سجل المساعد وزرار «جرّب المفتاح» في الإعدادات، وتنضيف المفتاح من المسافات عند اللصق",
   "apk": "https://github.com/aimanryache/w90-tracker/releases/latest/download/w90.apk"
 }
