@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "notes": "تصميم جديد كامل، شاشة اليوم حسب الوقت (صبح: وزن ونوم، مسا: إقفال)، وتحاليل أساسية وإضافية",
+  "versionCode": 11,
+  "versionName": "1.10",
+  "notes": "إشعار التحديث بقى يظهر في أي شاشة وكل ما تفتح التطبيق، وزرار «دوّر على تحديث» في القائمة",
   "apk": "https://github.com/aimanryache/w90-tracker/releases/latest/download/w90.apk"
 }
